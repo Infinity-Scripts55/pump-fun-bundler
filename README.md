@@ -36,10 +36,18 @@
 > * Delay Sell: Sell 100% of tokens in all wallets with a custom delay between each TX!
 > * Delay Sell %: Sell a % of tokens in all wallets with a custom delay between each TX!
 > * Dev Dump: Automatically transfer all tokens to Dev wallet in 1 TX and dump them in the next
-> * Dev Dump (Raydium): Dump all/percentage your tokens once your project migrates to Raydium with 1 click
+
+### Dedicated Raydium Mode:
+> * In Bot wSOL Account creator
+> * Custom Lookup Table feature to ensure multiple wallets can be used.
+> * Dump All/Percentage of tokens once your project hits raydium.
+> * In Bot wSOL relciamer, swap wSOL back to SOL in the click of a button
 
 ### Token Transfer:
 > Send all tokens from sub wallets -> dev wallet
 
 ### Reclaim SOL:
 > Return SOL Balances in Sub Wallets -> Main Wallet In 1 TX
+
+### In Bot Vanity Gen
+> Generate Vanity Tokens ending in "pump" with the click of a button, faster than Solana CLI :fire:
